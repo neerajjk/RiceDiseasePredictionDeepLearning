@@ -1,0 +1,194 @@
+{
+    "normal":{
+        "Cultural methods":["plant have no disease till now"],
+        "Chemical methods":["plant have no disease till now"]
+    },
+    "bacterial_leaf_blight":{
+        "Cultural methods":["Grow Tolerant varieties (IR 20 IR 72,PONMANI , TKM 6).",
+        "Secure disease free seed",
+        "Grow nurseries preferably in isolated upland conditions",
+        "Avoid clipping of seedlings during transplanting.",
+        "Balanced fertilization, avoid excess N - application",
+        "Skip N - application at booting (if disease is moderate)",
+        "Drain the field (except at flowering stage of the crop)",
+        "Destruction of weeds and  collateral hosts",
+        "Avoid flow of water from affected fields",
+        "Maintain proper plant spacing."
+        ],
+        "Chemical methods":["Seed treatment with bleaching powder (100g/l) and zinc sulfate (2%) reduce bacterial blight.",
+        "Seed treatment - seed soaking for 8 hours in Agrimycin (0.025%) and wettable ceresan (0.05%) followed by hot water treatment for 30 min at 52-54oC.",
+        "seed soaking for 8 hours in ceresan (0.1%) and treat with Streptocyclin (3g in 1 litre).",
+        "Spray Streptomycin sulphate + Tetracycline combination 300 g + Copper oxychloride 1.25kg/ha. If necessary repeat 15 days later.",
+        "Application of bleaching powder @ 5 kg/ha in the irrigation water is recommended in the kresek stage.",
+        "Foliar spray with copper fungicides alternatively with Strepto-cyclin (250 ppm) to check secondary spread."
+       ]
+    },
+    
+    "brown_spot":{
+        "Cultural methods":["As disease is seed borne,Use disease free seeds.",
+        "Removal of alternate & collateral hosts.",
+        "The use of resistant varieties is the most economical means of control.",
+        "Growing Resistant varieties like ADT 44,PY 4,CORH 1,CO 44,CAUVERY,BHAVANI,TPS 4 and Dhanu.",
+        "Providing proper nutrition for optimum plant growth and prevention of water stress seem to be the most important factors in controlling brown spot.",
+        "The disease is rarely observed in normally fertile rice soils.",
+        "Soils known to be low in plant-available silicon should be amended with calcium silicate slag before planting and the field should be well irrigated to avoid water stress."
+        ],
+        "Chemical methods":["seed soak / seed treatment with Captan or  Thiram at 2.0g /kg of seed",
+        "Spray Mancozeb (2.0g/lit) or Edifenphos (1ml/lit) - 2 to 3 times at 10 - 15 day intervals.",
+        "Spray preferably during early hours or afternoon at flowering and post - flowering stages.",
+        "Seed treatment with Agrosan or Ceresan 2.5 g/kg seed to ward off seedling blight stage; Spraying copper fungicides to control secondary spread.",
+        "Grisepfulvin, nystatin, aureofungin, and similar antibiotics have been found effective in preventing primary seedling infection.",
+        "Seed treatment with captan, thiram, chitosan, carbendazim, or mancozeb has been found to reduce seedling infection. Seed treatment with tricyclazole followed by spraying of mancozeb + tricyclazole at tillering and late booting stages gave good control of the disease. Application of edifenphos, chitosan, iprodione, or carbendazim in the field is also advisable."
+       ]
+    },
+    "blast":{
+        "Cultural methods":["Planting resistant varieties against the rice blast is the most practical and economical way of controlling rice blast.",
+        "Use of Tolerant varieties (CO 47, CO 50, ADT 36,ADT 37,ASD 16,ASD 20,ADT 39,ASD 19,TPS 3,White ponni,ADT 44,BPT 5204,CORH , Palghuna, Swarnamukhi, Swathi, Prabhat, IR - 64, , IR - 36, Jaya).",
+        "Avoid excess N - fertilizer application",
+        "Apply nitrogen in three split doses.",
+        "Remove weed hosts from bunds."
+       ],
+        "Chemical methods":["Do not apply lower/higher doses of fungicides.",
+        "Spray before 11.00 AM/after 3.00 PM.",
+        "Avoid noon hours for spraying.",
+        "Seed treatment at 2.0 g/kg seed with Captan or Carbendazim or Thiram or Tricyclazole.",
+        "Systemic fungicides such as pyroquilon and tricyclazole are possible chemicals for controlling the disease.",
+        "Spraying of Tricyclazole at 1g/lit of water or Edifenphos at 1 ml/lit of water or Carbendazim at 1.0 gm/lit.",
+        "3 to 4 sprays each at nursery, tillering stage and panicle emergence stage may be required for complete control.",
+        "Nursery stage: Light infection - Spray Carbendazim or Edifenphos @ 1.0 gm/lit.",
+        "Pre-Tillering to Mid-Tillering: Light at 2 to 5 % disease severities - Apply Edifenphos or Carbendazim @ 1.0 gm/lit. Delay top dressing of N fertilizers when infection is seen.",
+        "Panicle initiation to booting: At 2 to 5% leaf area damage- spray Edifenphos or Carbendazim or Tricyclazole @ 1.0 gm/lit.",
+        "Flowering and after: At 5 % leaf area damage or 1 to 2 % neck infection spray Edifenphos or Carbendazim or Tricyclazole @ 1 g /lit of water."] 
+    },
+    "false_smut":{
+        "Cultural methods":["Among the cultural control, destruction of straw and stubble from infected plants is recommended to reduce the disease.",
+        "Use varieties that are found to be resistant or tolerant against the disease in India.",
+        "Avoid field activities when the plants are wet.",
+        "Early planted crop has less smut balls than the late planted crop.",
+        "At the time of harvesting, diseased plants should be removed and destroyed so that sclerotia do not fall in the field. This will reduce primary inoculum for the next crop.",
+        "Field bunds and irrigation channels should be kept clean to eliminate alternate hosts.",
+        "Excess application of nitrogenous fertilizer should be avoided.",
+        "Regular monitoring of disease incidence during rabi season is very essential.",
+        "Proper Destruction of straw and stubble"
+         ],
+        "Chemical methods":["Spraying of copper oxychloride at 2.5 g/litre or Propiconazole at 1.0 ml/litre at boot leaf and milky stages will be more useful to prevent the fungal infection.",
+        "Seed treatment with carbendazim 2.0g/kg of seeds.",
+        "At tillering and preflowering stages, spray Hexaconazole @ 1ml/lit or Chlorothalonil 2g/lit.",
+        "In areas where the disease may cause yield loss, applying captan, captafol, fentin hydroxide, and mancozeb can be inhibited conidial germination.",
+        "At tillering and preflowering stages, spraying of carbendazim fungicide and copper base fungicide can effectively control the disease."
+        ] 
+    },
+    "sheath_blight":{
+        "Cultural methods":["Apply FYM 12.5 t/ha or green manure 6.25 t/ha to promote antagonistic microflora.",
+        "Avoid excess doses of fertilizers.",
+        "Adopt optimum spacing.",
+        "Eliminate weed hosts.",
+        "Apply organic amendments.",
+        "Avoid flow of irrigation water from infected fields to healthy fields.",
+        "Deep ploughing in summer and burning of stubbles."
+         ],
+        "Chemical methods":["Control of sheath blight has been mainly through the use of foliar fungicides.",
+        "Carbendazim (1 g/lit), Propiconazole (1ml/lit) may be applied.",
+        "Spraying of infected plants with fungicides, such as Benomyl and Iprodione, and antibiotics, such as Validamycin and Polyoxin, is effective against the disease.",
+        "Spray Carbendazim 250 g or Chlorothalonil 1 kg or Edifenphos 1 lit/ha."
+        ] 
+    },
+    "leaf_scald":{
+        "Cultural methods":["No alternate cultural method is found to cure this disease"],
+        "Chemical methods":["Avoid high use of fertilizer.",
+        "Chemicals such as benomyl, carbendazim, quitozene, and thiophanate-methyl can be used to treat the seeds to eliminate the disease.",
+        "In the field, spraying of benomyl, fentin acetate, edifenphos, and validamycin significantly reduce the incidence of leaf scald.",
+        "Foliar application of captafol, mancozeb, and copper oxychloride also reduces the incidence and severity of the fungal disease."
+        ] 
+    },
+    "tungro":{
+        "Cultural methods":["Planting of resistant varieties against tungro virus disease is the most economical means of managing the disease.",
+        "Use  Resistant varieties like IR 36,  IR 50 ,ADT 37,  Ponmani, Co 45, Co 48, Surekha, Vikramarya, Bharani, IR 36   and white ponni .",
+        "Among the cultural management practices, adjusting the date of planting is recommended.",
+        "Likewise, observing a fallow period of at least a month to eliminate hosts and viruses and vectors of the disease.",
+        "In epidemic areas follow rotation with pulses or oil seeds.",
+        "Apply neem cake @ 12.5 kg/20 cent nursery as basal dose.",
+        "plouging and harrowing the field to destroy stubbles right after harvest in order to eradicate other tungro hosts are also advisable.",
+        "Destruction of weed hosts on bunds."
+         ],
+        "Chemical methods":["Leaf yellowing can be minimized by spraying 2 % urea mixed with Mancozeb at 2.5 gm/lit.",
+        "Instead of urea foliar fertilizer like multi-K (potassium nitrate) can be sprayed at 1 per cent which impart resistance also because of high potassium content.",
+        "Green leaf hoppers as vectors are to be controlled effectively in time by spraying.",
+        "Spray insecticides twice, 15 and 30 days after transplanting",
+        "Spray Two rounds of any one of the following insecticides",
+        "Fenthion 100 EC (40 ml/ha) may be sprayed 15 and 30 days after transplanting.",
+        "The vegetation on the bunds should also be sprayed with the insecticides. Maintain 2.5 cm of water in the nursery and broadcast anyone of the following in 20 cents Carbofuran 3 G 3.5 kg (or) Phorate 10 G 1.0 kg (or) Quinalphos 5 G 2.0 kg.",
+        "In nursery when virus infection is low, apply Carbofuran granules @ 1 kg./ha to control vector population.",
+        "During pre-tillering to mid-tillering when one affected hill/m is observed apply Carbofuran granules @ 3.5kg/ha to control insect vector."
+        ] 
+    },
+    "hispa":{
+        "Cultural methods":["No alternate cultural method is found to cure this disease"],
+        "Chemical methods":["Avoid over fertilizing the field.",
+        "Close plant spacing results in greater leaf densities that can tolerate higher hispa numbers.",
+        "Leaf tip containing blotch mines should be destroyed.",
+        "Manual collection and killing of beetles – hand nets.",
+        "To prevent egg laying of the pests, the shoot tips can be cut.",
+        "Clipping and burying shoots in the mud can reduce grub populations by 75 - 92%.",
+        "Reduviid bug eats upon the adults.",
+        "Spraying of methyl parathion 0.05% or Quinalphos 0.05%."
+         ] 
+    },
+    "bacterial_leaf_streak":{
+        "Cultural methods":["No alternate cultural method is found to cure this disease"],
+        "Chemical methods":["The disease can be controlled by proper application of fertilizers and proper plant spacing, use of resistant varieties, and hot water treated seeds.",
+        "Practicing field sanitation is important.",
+        "Ratoons, straws and volunteer seedlings left after harvest can be destroyed to minimize the initial inoculum at the beginning of the season.",
+        "Providing good drainage system especially in seedbeds can also manage this disease.",
+        "Planting of resistant varieties (IR 20, TKM 6) is the most effective method of controlling bacterial leaf streak.",
+        "Grow nurseries preferably in isolated upland conditions",
+        "Avoid clipping of seedlings during transplanting.",
+        "Spray fresh cowdung water extract or lemon grass or mint extract at 20 %.",
+        "Spraying streptomycin sulphate and tetracycline combination 300g +copper oxychloride 1.25 kg/ha."] 
+    },
+    "bacterial_panicle_blight":{
+        "Cultural methods":[" High levels of nitrogen fertility tend to increase the susceptibility of rice plants to the BPB disease",
+         "Avoiding excessive nitrogen rates can help reduce the damage caused by BPB",
+         "nitrogen rate (247 kg/ha) was 1.6 times higher than at the low rate (168 kg/ha) applied during a cropping season."
+        ],
+        "Chemical methods":["Copper and copper-containing bactericides have also been reported to be effective for control of BPB in rice",
+        "Oxolinic acid (5-ethyl-5,8-dihydro-8-oxo-[1,3]dioxolo[4,5-g]quinoline-7-carboxylic acid, Starner®) is the first chemistry that has been reported to be highly effective for control of the BPB disease in rice" 
+        ] 
+    },
+    "dead_heart":{
+        "Cultural methods":["Field should be necessarily be scouted during the vulnerable crop growth stages for early detection of dead hearts and white ear.",
+        "Removal and proper disposal of stubbles will keep the borer population low in next crop.",
+        "Grow resistant varieties like Ratna, TKM 6, IR 20 , IR 40, IR 56, ADT 47, ADT 48, ASD 20, IR 36, ADT 44, PY 4, ADT 46, Madhu, Kanchana, Swarnapraba, karthika, Deepthi and Tellahamsa.",
+        "Clip the tip of the seedlings before transplanting to eliminate egg masses.",
+        "Collect and destroy the egg masses.",
+        "Avoid close planting and continuous water stagnation at early stages.",
+        "Pull out and destroy the affected tillers.",
+        "Harvest the crop up to the ground level and disturb the stubbles with plough immediately after the harvest to keep the borer population low in next crop."],
+        "Chemical methods":["ETL : 2 egg masses/m2 (or) 10% dead heart at vegetative stage (or) 2% White ear at Flowering stage.",
+        "When natural enemies of stem borers are present, application of chemical measures can be delayed or dispensed with.",
+        "The newly hatched borer larvae must be flit with 2 rounds of quinalphos or phosphomidon at 1000ml/ha at 7 days interval.",
+        "Spray any one of the following based on ETLs :",
+        "Quinalphos 25 EC 1000 ml/ha (or) Phosphamidon 40 SL 600 ml/ha (or) Profenophos 50 EC 1000 ml/ha."] 
+    },
+    "downy_mildew":{
+        "Cultural methods":["The best way to prevent downy mildew is to avoid the environmental conditions that favor the disease.",
+        "Prune or stake plants and remove any weeds to improve air circulation.",
+        "Water in the early morning hours, or use a soaker hose, to give the plants time to dry out during the day.",
+        "Keep the ground under infected plants clean during the fall and winter to prevent the disease from spreading.",
+        "Remove and destroy any plants with serious infection (see Fall Garden Cleanup).",
+        "Choose resistant varieties whenever possible."],
+        "Chemical methods":["Downy mildew is comparatively easy to control on most plants when the foliage and fruit are kept protected by a copper spray. Begin treatments two weeks before disease normally appears or when weather forecasts predict a long period of wet weather. Alternatively, begin treatment when disease first appears, and repeat at 7-10 day intervals for as long as needed.",
+        "The systemic action of Organocide® Plant Doctor moves throughout the entire plant to treat common disease problems. Mix 3/4 tsp per gallon of water and apply to foliage. Spray to run-off, as required for disease control."] 
+    },
+    "neck_blast":{
+        "Cultural methods":["The primary control option for blast is to plant resistant varieties. Contact your local agriculture office for up-to-date lists of varieties available.",
+        "Adjust planting time. Sow seeds early, when possible, after the onset of the rainy season."
+        ],
+        "Chemical methods":["Split nitrogen fertilizer application in two or more treatments. Excessive use of fertilizer can increase blast intensity.",
+        "Flood the field as often as possible.",
+        "Silicon fertilizers (e.g., calcium silicate) can be applied to soils that are silicon deficient to reduce blast. However, because of its high cost, silicon should be applied efficiently. Cheap sources of silicon, such as straws of rice genotypes with high silicon content, can be an alternative.",
+        "Care should be taken to ensure that the straw is free from blast as the fungus can survive on rice straw and the use of infected straw as a silicon source can spread the disease further.",
+        "Systemic fungicides like triazoles and strobilurins can be used judiciously for control to control blast. A fungicide application at heading can be effective in controlling the disease in cases where the risk of yield losses is high."
+        ] 
+    }
+}
